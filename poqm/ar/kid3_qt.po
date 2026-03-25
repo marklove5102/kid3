@@ -6375,7 +6375,7 @@ msgstr "WOAS - صفحة مصدر الصوت الرسمية"
 #: src/plugins/taglibmetadata/taglibmpegsupport.cpp:569
 msgctxt "@default|"
 msgid "WORS - Official internet radio station homepage"
-msgstr "WORS - الصفحة الرئيسية لمحطة الراديو عبر الإنترنت الرسمية"
+msgstr "WORS - الصفحة الرئيسة لمحطة الراديو عبر الإنترنت الرسمية"
 
 #: src/plugins/id3libmetadata/mp3file.cpp:996
 #: src/plugins/taglibmetadata/taglibmpegsupport.cpp:570
