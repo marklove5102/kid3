@@ -1916,7 +1916,7 @@ msgstr "编码成网址"
 #: src/core/model/commandformatreplacer.cpp:187
 msgctxt "@default|"
 msgid "--- separator ---"
-msgstr "--- 间隔 ---"
+msgstr "--- 分隔线 ---"
 
 #: src/core/model/commandformatreplacer.cpp:193
 msgctxt "@default|"
