@@ -773,9 +773,9 @@ void DiscogsImporter::HtmlImpl::parseFindResults(const QByteArray& searchStr)
 {
   if (auto jsonStart = searchStr.indexOf(R"({\"searchResults\":{)");
       jsonStart >= 0) {
-    if (auto jsonEnd = searchStr.indexOf(R"(defaultOrderBy\"})", jsonStart);
-        jsonEnd > jsonStart) {
-      jsonEnd += 17;
+    if (auto jsonEnd = searchStr.indexOf("</script>", jsonStart);
+        (jsonEnd = searchStr.lastIndexOf("}],", jsonEnd)) > jsonStart) {
+      ++jsonEnd;
       // We have JSON data inside the HTML output, if it is usable, we do not
       // have to parse the HTML output.
       QByteArray jsonStr = searchStr.mid(jsonStart, jsonEnd - jsonStart)
