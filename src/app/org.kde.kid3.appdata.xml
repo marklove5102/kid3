@@ -46,7 +46,7 @@
   <summary xml:lang="ar">حرّر البيانات الوصفيّة للملفات الصوتية</summary>
   <summary xml:lang="ca">Edita les metadades dels fitxers d'àudio</summary>
   <summary xml:lang="ca-valencia">Edita les metadades dels fitxers d'àudio</summary>
-  <summary xml:lang="cs">Upravujte metadata souboru hudby</summary>
+  <summary xml:lang="cs">Upravujte metadata audio souborů</summary>
   <summary xml:lang="da">Redigér metadata for lydfiler</summary>
   <summary xml:lang="de">Metadaten von Audio-Dateien bearbeiten</summary>
   <summary xml:lang="el">Επεξεργασία μεταδεδομένων αρχείου ήχου </summary>
@@ -85,7 +85,7 @@
     <p xml:lang="ar">باستخدام كِد3 يمكنك تحرير وسوم في ملفات MP3 و Ogg/Vorbis و DSF و FLAC و Opus و MPCو APE و MP4/AAC و  MP2و  Speexو TrueAudio و WavPack و WMA و WAV و .AIFF</p>
     <p xml:lang="ca">Amb el Kid3, un editor per a les etiquetes de l'àudio, podreu editar les etiquetes als fitxers MP3, Ogg/Vorbis, DSF, FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, AIFF i del seguidor de peces.</p>
     <p xml:lang="ca-valencia">Amb Kid3, un editor per a les etiquetes de l'àudio, podreu editar les etiquetes en els fitxers MP3, Ogg/Vorbis, DSF, FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, AIFF i del seguidor de peces.</p>
-    <p xml:lang="cs">Pomocí Kid3, editoru značek hudby, můžete upravovat značky v MP3, Ogg/Vorbis, DSF, FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, AIFF a dalších souborech.</p>
+    <p xml:lang="cs">Pomocí Kid3, editoru značek v audio souborech, můžete upravovat značky ve formátech MP3, Ogg/Vorbis, DSF, FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, AIFF a dalších.</p>
     <p xml:lang="da">Kid3 er en lydmærke-editor, hvormed du kan redigere mærker i MP3-, Ogg/Vorbis-, DSF-, FLAC-, Opus-, MPC-, APE-, MP4/AAC-, MP2-, Speex-, TrueAudio-, WavPack-, WMA-, WAV-, AIFF- og tracker-filer.</p>
     <p xml:lang="de">Mit Kid3, einem Editor für Audio-Metadaten, können Sie Tags in MP3-, Ogg/Vorbis-, DSF-, FLAC-, Opus-, MPC-, APE-, MP4/AAC-, MP2-, Speex-, TrueAudio-, WavPack-, WMA-, WAV-, AIFF- und und Tracker-Dateien bearbeiten.</p>
     <p xml:lang="el">Με το Kid3, έναν επεξεργαστή ετικετών ήχου, μπορείτε να επεξεργαστείτε ετικέτες σε MP3, Ogg/Vorbis, DSF, FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, AIFF και σε αρχεία ιχνηλάτησης.</p>
@@ -122,6 +122,7 @@
     <p xml:lang="ar">يمكن تحرير جميع وسوم ID3 لملفات MP3، ومن الممكن تحويلها بين ID3v1.1 و ID3v2.3 و ID3v2.4. يمكن تحرير كلمات الأغاني المتزامنة واستيرادها وتصديرها إلى ملفات LRC Karaoke.</p>
     <p xml:lang="ca">Es poden editar tots els marcs en les etiquetes ID3 dels fitxers MP3, i és possible convertir-les entre l'ID3 versió 1.1, 2.3 i 2.4. La lletra sincronitzada es pot editar, importar i exportar a fitxers de Karaoke en LRC.</p>
     <p xml:lang="ca-valencia">Es poden editar tots els marcs en les etiquetes ID3 dels fitxers MP3, i és possible convertir-les entre l'ID3 versió 1.1, 2.3 i 2.4. La lletra sincronitzada es pot editar, importar i exportar cap a fitxers de Karaoke en LRC.</p>
+    <p xml:lang="cs">Všechny záznamy v ID3 značkách MP3 souborů lze upravovat a je možné provádět konverzi mezi formáty ID3v1.1, ID3v2.3 a ID3v2.4. Synchronizované texty skladeb lze upravovat, importovat a exportovat do souborů LRC pro karaoke.</p>
     <p xml:lang="da">Alle rammer i ID3-mærkerne for MP3-filer kan redigeres, og det er muligt at konvertere mellem ID3v1.1, ID3v2.3 og ID3v2.4. Synkroniserede sangtekster kan redigeres, importeres og eksporteres til LRC karaoke-filer.</p>
     <p xml:lang="de">Alle Elemente in den ID3-Tags von MP3-Dateien können bearbeitet und zwischen ID3v1.1, ID3v2.3 und ID3v2.4 umgewandelt werden. Synchronisierte Liedtexte können bearbeitet, importiert und in LRC-Karaoke-Dateien exportiert werden.</p>
     <p xml:lang="el">Όλα τα καρέ στις ID3 ετικέτες των MP3 αρχείων μπορούν να γίνουν αντικείμενο επεξεργασίας και είναι εφικτή η μετατροπή ανάμεσα σε ID3v1.1, ID3v2.3 και ID3v2.4. Μπορεί να γίνει επεξεργασία, εισαγωγή και εξαγωγή συγχρονισμένων στίχων σε LRC καραόκε αρχεία.</p>
@@ -159,6 +160,7 @@
     <p xml:lang="ar">يمكن ضبط وسوم الملفات المتعددة معًا. ومن الممكن إنشاء وسوم من أسماء الملفات أو محتويات حقول الوسوم الأخرى وإنشاء أسماء الملفات من الوسوم وإعادة تسمية المجلدات من الوسوم. ويمكن تحويل الحالة الأحرف واستبدال النصوص بشكل آليّا حتى تكون متسقة.</p>
     <p xml:lang="ca">Es poden establir juntes les etiquetes de múltiples fitxers. És possible generar etiquetes a partir de noms de fitxer o el contingut d'altres camps d'etiqueta i generar noms de fitxer a partir d'etiquetes i canviar el nom de les carpetes a partir de les etiquetes. La conversió automàtica de majúscules i minúscules, i la substitució de cadenes ajuden a mantenir les etiquetes coherents.</p>
     <p xml:lang="ca-valencia">Es poden establir juntes les etiquetes de múltiples fitxers. És possible generar etiquetes a partir de noms de fitxer o el contingut d'altres camps d'etiqueta i generar noms de fitxer a partir d'etiquetes i canviar el nom de les carpetes a partir de les etiquetes. La conversió automàtica de majúscules i minúscules, i la substitució de cadenes ajuden a mantindre les etiquetes coherents.</p>
+    <p xml:lang="cs">Značky více souborů lze nastavit najednou. Je možné generovat značky na základě názvů souborů nebo obsahu jiných polí značek, generovat názvy souborů na základě značek a přejmenovávat složky na základě značek. Automatická změna velikosti písmen a nahrazování řetězců pomáhají udržovat jednotnost značek.</p>
     <p xml:lang="da">Mærker fra flere filer kan sættes sammen. Det er muligt at generere mærker ud fra filnavne eller indholdet af andre mærkefelter samt at generere filnavne fra mærker og omdøbe mapper ud fra mærker. Automatisk konvertering af versaler og erstatning af strenge hjælper med at holde mærkerne konsistente.</p>
     <p xml:lang="de">Die Tags von mehreren Dateien können gemeinsam festgelegt werden. Es ist möglich, Tags aus Dateinamen oder dem Inhalt anderer Tag-Felder und Dateinamen aus Tags zu generieren und Ordner aus Tags umzubenennen. Automatische Groß-/Kleinschreibung und die Ersetzung von Zeichenfolgen helfen dabei, Tags einheitlich zu halten.</p>
     <p xml:lang="el">Οι ετικέτες πολλών αρχείων μπορούν να ρυθμιστούν μαζί. Είναι δυνατή η παραγωγή ετικετών από ονόματα αρχείων ή από τα περιεχόμενα άλλων πεδίων ετικετών, η παραγωγή ονομάτων αρχείων από ετικέτες και η μετονομασία φακέλων από ετικέτες. Η αυτόματη μετατροπή μεταξύ κεφαλαίων και πεζών και η αντικατάσταση συμβολοσειρών βοηθούν στη διατήρηση των ετικετών σε συμφωνία.</p>
@@ -195,6 +197,7 @@
     <p xml:lang="ar">يمكن استيراد بيانات الألبوم من gnudb.org و MusicBrainz و Discogs و Amazon؛ تتوفر استيراد بالدُفعات الآليّة لمجلدات متعددة. من الممكن أيضًا تصدير البيانات وإنشاء قوائم التشغيل.</p>
     <p xml:lang="ca">Les dades de l'àlbum es poden importar des de gnudb.org, MusicBrainz, Discogs, Amazon. Hi ha disponible la importació automàtica per lots per a múltiples carpetes. També és possible exportar dades i generar llistes de reproducció.</p>
     <p xml:lang="ca-valencia">Les dades de l'àlbum es poden importar des de gnudb.org, MusicBrainz, Discogs, Amazon. Hi ha disponible la importació automàtica per lots per a múltiples carpetes. També és possible exportar dades i generar llistes de reproducció.</p>
+    <p xml:lang="cs">Údaje o albech lze importovat z gnudb.org, MusicBrainz, Discogs a Amazon; pro více složek je k dispozici automatický hromadný import. Je také možné exportovat data a vytvářet seznamy skladeb.</p>
     <p xml:lang="de">Albumdaten können von gnudb.org, MusicBrainz, Discogs, Amazon importiert werden. Ein automatischer Stapelverarbeitungsmodus ist für mehrere Ordner verfügbar. Daten können exportiert und Wiedergabelisten können erstellt werden.</p>
     <p xml:lang="el">Δεδομένα για άλμπουμ μπορούν να εισαχθούν από τα gnudb.org, MusicBrainz, Discogs, Amazon. Η αυτόματη εισαγωγή δέσμης είναι διαθέσιμη για πολλούς φακέλους. Είναι επίσης δυνατή η εξαγωγή δεδομένων και η δημιουργία λιστών αναπαραγωγής.</p>
     <p xml:lang="en-GB">Album data can be imported from gnudb.org, MusicBrainz, Discogs, Amazon; automatic batch import is available for multiple folders. It is also possible to export data and generate play lists.</p>
@@ -228,6 +231,7 @@
     <p xml:lang="ar">يستخدم كيد3 أطر عمل كيدي. قد يفضل مستخدمو بيئات سطح المكتب الأخرى استخدام كيد3-كيو تي بدلاً من ذلك، والذي لا يعتمد على كيدي.</p>
     <p xml:lang="ca">El Kid3 utilitza els Frameworks de KDE. Els usuaris d'altres entorns d'escriptori poden preferir el Kid3-qt, que no té dependències de KDE.</p>
     <p xml:lang="ca-valencia">Kid3 utilitza els Frameworks de KDE. Els usuaris d'altres entorns d'escriptori poden preferir Kid3-qt, el qual no té dependències de KDE.</p>
+    <p xml:lang="cs">Kid3 využívá knihovny KDE Frameworks. Uživatelé jiných grafických prostředí mohou dát přednost verzi Kid3-qt, která není závislá na KDE.</p>
     <p xml:lang="en-GB">Kid3 uses the KDE Frameworks. Users of other desktop environments may prefer Kid3-qt instead, which is without KDE dependencies.</p>
     <p xml:lang="es">Kid3 usa las infraestructuras de KDE. Los usuarios de otros entornos de escritorio pueden preferir Kid3-qt en su lugar, que no depende de KDE.</p>
     <p xml:lang="eu">Kid3(u)k KDE Frameworks erabiltzen du. Beste mahaigain ingurune batzuen erabiltzaileek baliteke Kid3-qt nahiago izatea, ez du eta KDE mendekotasunik.</p>
@@ -312,7 +316,7 @@
         <p xml:lang="ar">أُصلح</p>
         <p xml:lang="ca">Corregit</p>
         <p xml:lang="ca-valencia">Corregit</p>
-        <p xml:lang="cs">Pevné</p>
+        <p xml:lang="cs">Opraveno</p>
         <p xml:lang="es">Correcciones</p>
         <p xml:lang="fr">Corrigé</p>
         <p xml:lang="it">Corretti</p>
@@ -327,6 +331,7 @@
           <li xml:lang="ar">كيدي: تجنب العرض المفرط لمربع حوار الملف.</li>
           <li xml:lang="ca">KDE: Evita l'amplada excessiva del diàleg de fitxers.</li>
           <li xml:lang="ca-valencia">KDE: Evita l'amplària excessiva del diàleg de fitxers.</li>
+          <li xml:lang="cs">KDE: Zabráněno nadměrné šířce dialogového okna pro výběr souboru.</li>
           <li xml:lang="es">KDE: Evitar excesiva anchura del diálogo de archivos.</li>
           <li xml:lang="fr">KDE : bloquer une largeur excessive de la boîte de dialogue de fichiers.</li>
           <li xml:lang="it">KDE: evita una larghezza eccessiva della finestra dei file.</li>
@@ -340,6 +345,7 @@
           <li xml:lang="ar">إتاحة الوصول إلى أطر الفصول عبر kid3-cli (سطر الأوامر).</li>
           <li xml:lang="ca">Fa accessibles els marcs dels capítols a través de kid3-cli.</li>
           <li xml:lang="ca-valencia">Fa accessibles els marcs dels capítols a través de kid3-cli.</li>
+          <li xml:lang="cs">Zpřístupněny rámce kapitol pomocí kid3-cli.</li>
           <li xml:lang="es">Hacer accesible la estructura Chapters mediante kid3-cli.</li>
           <li xml:lang="fr">Rendre les trames des chapitres accessibles grâce à kid3-cli.</li>
           <li xml:lang="it">Rende accessibili i frame dei capitoli tramite kid3-cli.</li>
@@ -353,6 +359,7 @@
           <li xml:lang="ar">إمكانية حذف المسارات المستوردة الزائدة قبل الاستيراد.</li>
           <li xml:lang="ca">Les pistes importades supèrflues es poden suprimir abans d'importar.</li>
           <li xml:lang="ca-valencia">Les pistes importades supèrflues es poden suprimir abans d'importar.</li>
+          <li xml:lang="cs">Nadbytečné stopy lze před importem smazat.</li>
           <li xml:lang="es">Las pistas superfluas importadas se pueden borrar antes de la importación.</li>
           <li xml:lang="fr">Les pistes importées superflues peuvent être supprimées avant l'importation.</li>
           <li xml:lang="it">Le tracce importate superflue possono essere eliminate prima dell'importazione.</li>
@@ -366,6 +373,7 @@
           <li xml:lang="ar">إصلاح إنشاء محرر خاطئ في جدول الأطر بعد تغيير الاختيار.</li>
           <li xml:lang="ca">Corregeix la creació d'un editor incorrecte a la taula de marcs després del canvi de selecció.</li>
           <li xml:lang="ca-valencia">Corregix la creació d'un editor incorrecte a la taula de marcs després del canvi de selecció.</li>
+          <li xml:lang="cs">Opravena chyba, kdy se po změně výběru v tabulce rámců zobrazoval nesprávný editor.</li>
           <li xml:lang="es">Se ha corregido la creación de un editor incorrecto en la tabla de estructuras después del cambio de selección.</li>
           <li xml:lang="fr">Correction de la création de l'éditeur incorrect dans la table des trames après la modification de sélection.</li>
           <li xml:lang="it">Correzione della creazione di un editor errato nella tabella dei frame dopo la modifica della selezione.</li>
@@ -379,6 +387,7 @@
           <li xml:lang="ar">عمليات الإكمال بقيم مختلفة عند اختيار ملفات متعددة تدعم الآن النوع أيضًا.</li>
           <li xml:lang="ca">Les complecions amb valors diferents en seleccionar diversos fitxers ara també admeten el gènere.</li>
           <li xml:lang="ca-valencia">Les complecions amb valors diferents en seleccionar diversos fitxers ara també admeten el gènere.</li>
+          <li xml:lang="cs">Při výběru více souborů se nyní v nabídce s různými hodnotami zobrazuje také žánr.</li>
           <li xml:lang="es">Las terminaciones con diferentes valores al seleccionar varios archivos ahora también admiten género.</li>
           <li xml:lang="fr">Les complètement avec des valeurs différentes lors de la sélection de plusieurs fichiers prennent désormais également en charge le genre.</li>
           <li xml:lang="it">I completamenti con valori diversi quando si selezionano più file ora supportano anche il genere.</li>
@@ -392,6 +401,7 @@
           <li xml:lang="ar">عدم ترك ملفات غلاف الألبوم المؤقتة في النظام.</li>
           <li xml:lang="ca">No deixa fitxers temporals de caràtula al sistema.</li>
           <li xml:lang="ca-valencia">No deixa fitxers temporals de caràtula al sistema.</li>
+          <li xml:lang="cs">V systému již nezůstávají dočasné soubory s obálkami alba.</li>
           <li xml:lang="es">No dejar archivos de carátulas temporales en el sistema.</li>
           <li xml:lang="fr">Ne pas laisser de fichiers temporaires d'illustration de couverture sur le système.</li>
           <li xml:lang="it">Non lascia file temporanei di copertine nel sistema.</li>
@@ -405,6 +415,7 @@
           <li xml:lang="ar">EmbedLyrics.qml: إزالة المحارف غير القانونية لمعاملات الاستعلام.</li>
           <li xml:lang="ca">EmbedLyrics.qml: elimina caràcters il·legals als paràmetres de consulta.</li>
           <li xml:lang="ca-valencia">EmbedLyrics.qml: elimina caràcters il·legals als paràmetres de consulta.</li>
+          <li xml:lang="cs">EmbedLyrics.qml: Odstraňování nepřípustných znaků z parametrů dotazu.</li>
           <li xml:lang="es">EmbedLyrics.qml: Eliminar caracteres ilegales en los parámetros de consulta.</li>
           <li xml:lang="fr">EmbedLyrics.qml : suppression des caractères illégaux des paramètres de requête.</li>
           <li xml:lang="it">EmbedLyrics.qml: rimuove i caratteri non validi per i parametri di query.</li>
@@ -418,6 +429,7 @@
           <li xml:lang="ar">البرمجيات النصية: إصلاح الانهيار عند استخدام execute @qml من kid3-cli، وإصلاح isStandalone() عند التشغيل غير التفاعلي مع kid3-cli، وإضافة السكربت الجديد SelectChapterTags.qml.</li>
           <li xml:lang="ca">Creació de scripts: corregeix una fallada si s'utilitza @qml d'execució des de kid3-cli, corregeix «isStandalone()» quan s'executa de manera no interactiva amb kid3-cli, afegeix un script nou SelectChapterTags.qml.</li>
           <li xml:lang="ca-valencia">Creació de scripts: corregix una fallada si s'utilitza @qml d'execució des de kid3-cli, corregix «isStandalone()» quan s'executa de manera no interactiva amb kid3-cli, afig un script nou SelectChapterTags.qml.</li>
+          <li xml:lang="cs">Skripty: Oprava pádu při použití příkazu `execute @qml` z příkazového řádku `kid3-cli`, oprava funkce `isStandalone()` při neinteraktivním spuštění pomocí `kid3-cli`, přidání nového skriptu `SelectChapterTags.qml`.</li>
           <li xml:lang="es">Guiones: Se ha corregido un fallo de la aplicación cuando se usa «execute @gml» en kid3-cli; se ha corregido isStandalone() cuando se ejecuta de forma no interactiva con kid3-cli; se ha añadido el nuevo guion SelectChapterTags.qml.</li>
           <li xml:lang="fr">Langage de scripts : correction du plantage si « execute @qml » est utilisé depuis kid3-cli. Correction de « isStandalone() » lors d'une exécution non interactive avec kid3-cli. Ajout d'un nouveau script « SelectChapterTags.qml ».</li>
           <li xml:lang="it">Scripting: correzione dell'arresto anomalo se execute @qml viene utilizzato da kid3-cli, correzione di isStandalone() quando eseguito in modo non interattivo con kid3-cli, aggiunta del nuovo script SelectChapterTags.qml.</li>
@@ -431,6 +443,7 @@
           <li xml:lang="ar">نظام البناء: عدم ترميز مسار WITH_DATAROOTDIR_DEFAULT يدويًا، ودعم خيار CMake المسمى BUILD_WITH_QT5 لفرض استخدام Qt5، ودعم Qt 6/KDE 6 على دبيان، وإضافة أهداف CI/CD جديدة متنوعة، وتحسين دعم Snap.</li>
           <li xml:lang="ca">Sistema de construcció: no escriu al codi font el camí WITH_DATAROOTDIR_DEFAULT, permet l'opció BUILD_WITH_QT5 del CMake per a forçar l'ús de les Qt5, permet les Qt 6/KDE 6 a Debian, afegeix diversos objectius CI/CD nous, millora la implementació de Snap.</li>
           <li xml:lang="ca-valencia">Sistema de construcció: no escriu al codi font el camí WITH_DATAROOTDIR_DEFAULT, permet l'opció BUILD_WITH_QT5 de CMake per a forçar l'ús de les Qt5, permet les Qt 6/KDE 6 a Debian, afig diversos objectius CI/CD nous, millora la implementació de Snap.</li>
+          <li xml:lang="cs">Systém sestavení: Cesta WITH_DATAROOTDIR_DEFAULT se nezadává pevně, přidána podpora pro volbu CMake BUILD_WITH_QT5 k vynucení použití Qt5, přidána podpora pro Qt 6/KDE 6 v Debianu, přidány různé nové cíle CI/CD, vylepšena podpora pro Snap.</li>
           <li xml:lang="es">Sistema de compilación: No usar la ruta WITH_DATAROOTDIR_DEFAULT directamente en el código; permitir la opción BUILD_WITH_QT5 en CMake para forzar el uso de Qt5; permitir Qt 6/KDE 6 en Debian; se han añadido varios objetivos CI/CD nuevos; se ha mejorado la compatibilidad con Snap.</li>
           <li xml:lang="fr">Système de compilation : ne pas coder en dur le chemin « WITH_DATAROOTDIR_DEFAULT ». Prise en charge de l'option « CMake BUILD_WITH_QT5 » pour forcer l'utilisation de Qt5. Prise en charge de Qt 6 / KDE 6 sous Debian. Ajout de diverses nouvelles cibles « CI / CD ». Amélioration de la prise en charge de Snap.</li>
           <li xml:lang="it">Sistema di compilazione: non codifica il percorso WITH_DATAROOTDIR_DEFAULT, supporta l'opzione CMake BUILD_WITH_QT5 per forzare l'uso di Qt5, supporta Qt 6/KDE 6 su Debian, aggiunge vari nuovi target CI/CD, migliora il supporto Snap.</li>
@@ -449,7 +462,7 @@
         <p xml:lang="ar">جديد</p>
         <p xml:lang="ca">Nou</p>
         <p xml:lang="ca-valencia">Nou</p>
-        <p xml:lang="cs">Nový</p>
+        <p xml:lang="cs">Nové</p>
         <p xml:lang="es">Novedades</p>
         <p xml:lang="fr">Nouveau</p>
         <p xml:lang="it">Nuovi</p>
@@ -464,6 +477,7 @@
           <li xml:lang="ar">إظهار معاينة للصور المضمنة المتعددة.</li>
           <li xml:lang="ca">Mostra la vista prèvia de múltiples imatges incrustades.</li>
           <li xml:lang="ca-valencia">Mostra la vista prèvia de múltiples imatges incrustades.</li>
+          <li xml:lang="cs">Zobrazení náhledu u několika vložených obrázků.</li>
           <li xml:lang="es">Mostrar vistas previas para múltiples imágenes integradas.</li>
           <li xml:lang="fr">Afficher l'aperçu de plusieurs images intégrées.</li>
           <li xml:lang="it">Mostra l'anteprima per più immagini incorporate.</li>
@@ -477,6 +491,7 @@
           <li xml:lang="ar">تبسيط تحرير الكتب الصوتية بصيغة MP3 في مربع حوار تحرير أطر "الفصول".</li>
           <li xml:lang="ca">Edició simplificada d'audiollibres MP3 en un diàleg d'edició de marcs «Capítols».</li>
           <li xml:lang="ca-valencia">Edició simplificada d'audiollibres MP3 en un diàleg d'edició de marcs «Capítols».</li>
+          <li xml:lang="cs">Zjednodušené úpravy MP3 audioknih v dialogovém okně "Kapitoly" pro úpravy.</li>
           <li xml:lang="es">Edición simplificada de audiolibros MP3 en el diálogo de edición de la estructura «Chapters».</li>
           <li xml:lang="fr">Édition simplifiée des livres audio « MP3 » dans une boîte de dialogue d'édition de trames nommée « Chapitres ».</li>
           <li xml:lang="it">Modifica semplificata degli audiolibri MP3 in una finestra di modifica del riquadro «Capitoli».</li>
@@ -490,6 +505,7 @@
           <li xml:lang="ar">ترجمات للعربية، والإسبرانتو، والجاليكية، والجورجية.</li>
           <li xml:lang="ca">Traduccions a l'àrab, esperanto, gallec i georgià.</li>
           <li xml:lang="ca-valencia">Traduccions a l'àrab, esperanto, gallec i georgià.</li>
+          <li xml:lang="cs">Překlady do arabštiny, esperanta, galicijštiny a gruzínštiny.</li>
           <li xml:lang="es">Traducciones al árabe, esperanto, gallego y georgiano.</li>
           <li xml:lang="fr">Traductions en Arabe, Espéranto, Galicien et Géorgien.</li>
           <li xml:lang="it">Traduzioni in arabo, esperanto, galiziano e georgiano.</li>
@@ -504,6 +520,7 @@
         <p xml:lang="ar">مُحسّن</p>
         <p xml:lang="ca">Millorat</p>
         <p xml:lang="ca-valencia">Millorat</p>
+        <p xml:lang="cs">Vylepšeno</p>
         <p xml:lang="es">Mejoras</p>
         <p xml:lang="fr">Amélioré</p>
         <p xml:lang="it">Migliorati</p>
@@ -518,6 +535,7 @@
           <li xml:lang="ar">ماك أو إس: بناء الحزم وتوقيعها وتوثيقها.</li>
           <li xml:lang="ca">macOS: construcció, signatura i notaria de paquets.</li>
           <li xml:lang="ca-valencia">macOS: construcció, signatura i notaria de paquets.</li>
+          <li xml:lang="cs">macOS: Kompilace, podepisování a ověřování balíčků.</li>
           <li xml:lang="es">macOS: Compilación, firma y notarización de paquetes.</li>
           <li xml:lang="fr">macOS : Compilation, signature et notarisation des paquetages.</li>
           <li xml:lang="it">macOS: compilazione, firma e autenticazione dei pacchetti.</li>
@@ -532,7 +550,7 @@
         <p xml:lang="ar">أُصلح</p>
         <p xml:lang="ca">Corregit</p>
         <p xml:lang="ca-valencia">Corregit</p>
-        <p xml:lang="cs">Pevné</p>
+        <p xml:lang="cs">Opraveno</p>
         <p xml:lang="es">Correcciones</p>
         <p xml:lang="fr">Corrigé</p>
         <p xml:lang="it">Corretti</p>
@@ -547,6 +565,7 @@
           <li xml:lang="ar">إجراء تضمين كلمات الأغاني.</li>
           <li xml:lang="ca">Incrusta l'acció de lletres.</li>
           <li xml:lang="ca-valencia">Incrusta l'acció de lletres.</li>
+          <li xml:lang="cs">Akce pro vložení textu skladby.</li>
           <li xml:lang="es">Acción para insertar letras de canciones.</li>
           <li xml:lang="fr">Intégrer l'action sur les paroles.</li>
           <li xml:lang="it">Azione per incorporare i testi.</li>
@@ -560,6 +579,7 @@
           <li xml:lang="ar">استيراد gnudb.org، يمكن ضبط عنوان بريد إلكتروني مسجل في عنصر تحكم واجهة المستخدم "Token".</li>
           <li xml:lang="ca">Importació de gnudb.org, es pot establir una adreça de correu electrònic registrada al control de la interfície d'usuari «Testimoni».</li>
           <li xml:lang="ca-valencia">Importació de gnudb.org, es pot establir una adreça de correu electrònic registrada al control de la interfície d'usuari «Testimoni».</li>
+          <li xml:lang="cs">Při importu z gnudb.org lze v ovládacím prvku „Token“ zadat registrovanou e-mailovou adresu.</li>
           <li xml:lang="es">Importación de gnudb.org; una dirección de correo electrónico registrada se puede definir en el control de la interfaz «Token».</li>
           <li xml:lang="fr">Importation du site « gnudb.org ». une adresse de courriel enregistrée peut être définie dans le contrôle d'interface « Jeton ».</li>
           <li xml:lang="it">Importazione da gnudb.org: è possibile impostare un indirizzo email registrato nel controllo dell'interfaccia utente «Token».</li>
@@ -573,6 +593,7 @@
           <li xml:lang="ar">كيدي 6: دليل التثبيت لملف kid3ui.rc.</li>
           <li xml:lang="ca">KDE 6: directori d'instal·lació del kid3ui.rc.</li>
           <li xml:lang="ca-valencia">KDE 6: directori d'instal·lació del kid3ui.rc.</li>
+          <li xml:lang="cs">KDE 6: Instalační adresář pro soubor kid3ui.rc.</li>
           <li xml:lang="es">KDE 6: Directorio de instalación para kid3ui.rc.</li>
           <li xml:lang="fr">KDE 6 : répertoire d'installation pour kid3ui.rc.</li>
           <li xml:lang="it">KDE 6: cartella di installazione per kid3ui.rc.</li>
@@ -586,6 +607,7 @@
           <li xml:lang="ar">أندرويد: البناء مع معماريتي arm64-v8a و x86_64.</li>
           <li xml:lang="ca">Android: construcció amb arquitectures arm64-v8a i x86_64.</li>
           <li xml:lang="ca-valencia">Android: construcció amb arquitectures arm64-v8a i x86_64.</li>
+          <li xml:lang="cs">Android: Kompilace pro architektury arm64-v8a a x86_64.</li>
           <li xml:lang="es">Android: Compilación con las arquitecturas arm64-v8a y x86_64.</li>
           <li xml:lang="fr">Android : compilation pour les architectures « arm64-v8a » et « x86_64 ».</li>
           <li xml:lang="it">Android: compilazione con architetture arm64-v8a e x86_64.</li>
@@ -599,6 +621,7 @@
           <li xml:lang="ar">أندرويد: استخدام إذن MANAGE_EXTERNAL_STORAGE لإدارة جميع الملفات على جهاز التخزين.</li>
           <li xml:lang="ca">Android: utilitza el permís de MANAGE_EXTERNAL_STORAGE per a gestionar tots els fitxers d'un dispositiu d'emmagatzematge.</li>
           <li xml:lang="ca-valencia">Android: utilitza el permís de MANAGE_EXTERNAL_STORAGE per a gestionar tots els fitxers d'un dispositiu d'emmagatzematge.</li>
+          <li xml:lang="cs">Android: Pomocí oprávnění MANAGE_EXTERNAL_STORAGE můžete spravovat všechny soubory na úložném zařízení.</li>
           <li xml:lang="es">Android: Usar el permiso MANAGE_EXTERNAL_STORAGE para la gestión de todos los archivos de un dispositivo de almacenamiento.</li>
           <li xml:lang="fr">Android : utilisation de l'autorisation « MANAGE_EXTERNAL_STORAGE » pour gérer tous les fichiers d'un périphérique d'enregistrement.</li>
           <li xml:lang="it">Android: utilizzare l'autorizzazione MANAGE_EXTERNAL_STORAGE per gestire tutti i file su un dispositivo di archiviazione.</li>
@@ -612,6 +635,7 @@
           <li xml:lang="ar">أندرويد: حفظ وسوم الصور.</li>
           <li xml:lang="ca">Android: desament d'etiquetes d'imatge.</li>
           <li xml:lang="ca-valencia">Android: guardada d'etiquetes d'imatge.</li>
+          <li xml:lang="cs">Android: Ukládání obrázkových značek.</li>
           <li xml:lang="es">Android: Guardar etiquetas de imágenes.</li>
           <li xml:lang="fr">Android : enregistrement des étiquettes d'images.</li>
           <li xml:lang="it">Android: salvataggio dei tag delle immagini.</li>
@@ -625,6 +649,7 @@
           <li xml:lang="ar">هايكو: مسارات التثبيت.</li>
           <li xml:lang="ca">Haiku: camins d'instal·lació.</li>
           <li xml:lang="ca-valencia">Haiku: camins d'instal·lació.</li>
+          <li xml:lang="cs">Haiku: Instalační cesty.</li>
           <li xml:lang="es">Haiku: Rutas de instalación.</li>
           <li xml:lang="fr">Haïku : emplacements d'installation.</li>
           <li xml:lang="it">Haiku: percorsi di installazione.</li>
@@ -643,7 +668,7 @@
         <p xml:lang="ar">جديد</p>
         <p xml:lang="ca">Nou</p>
         <p xml:lang="ca-valencia">Nou</p>
-        <p xml:lang="cs">Nový</p>
+        <p xml:lang="cs">Nové</p>
         <p xml:lang="es">Novedades</p>
         <p xml:lang="fr">Nouveau</p>
         <p xml:lang="it">Nuovi</p>
@@ -658,6 +683,7 @@
           <li xml:lang="ar">اختصارات لوحة المفاتيح لشريط أدوات التشغيل.</li>
           <li xml:lang="ca">Dreceres de teclat per a la barra d'eines de reproducció.</li>
           <li xml:lang="ca-valencia">Dreceres de teclat per a la barra d'eines de reproducció.</li>
+          <li xml:lang="cs">Klávesové zkratky pro panel přehrávání.</li>
           <li xml:lang="es">Atajos de teclado para la barra de herramientas de reproducción.</li>
           <li xml:lang="fr">Raccourcis clavier pour la barre d'outils de lecture.</li>
           <li xml:lang="it">Scorciatoie da tastiera per la barra degli strumenti di riproduzione.</li>
@@ -671,6 +697,7 @@
           <li xml:lang="ar">خيار "مخرج الصوت" في تبويب إعدادات "إجراءات المستخدم".</li>
           <li xml:lang="ca">Opció «Sortida d'àudio» a la pestanya de configuració «Accions d'usuari».</li>
           <li xml:lang="ca-valencia">Opció «Eixida d'àudio» a la pestanya de configuració «Accions d'usuari».</li>
+          <li xml:lang="cs">Možnost "Audio výstup" na záložce nastavení "Uživatelské akce".</li>
           <li xml:lang="es">Opción «Salida de sonido» en la pestaña de preferencias «Acciones del usuario».</li>
           <li xml:lang="fr">Option « Sortie audio » dans l’onglet de configuration « Actions utilisateur ».</li>
           <li xml:lang="it">Opzione «Uscita audio» nella scheda delle impostazioni «Azioni utente».</li>
@@ -684,6 +711,7 @@
           <li xml:lang="ar">دعم تنسيق WebP للصور.</li>
           <li xml:lang="ca">Permet el format WebP per a imatges.</li>
           <li xml:lang="ca-valencia">Permet el format WebP per a imatges.</li>
+          <li xml:lang="cs">Podpora formátu WebP pro obrázky.</li>
           <li xml:lang="es">Permitir el formato WebP para las imágenes.</li>
           <li xml:lang="fr">Prise en charge du format « WebP » pour les images.</li>
           <li xml:lang="it">Supporta il formato WebP per le immagini.</li>
@@ -698,6 +726,7 @@
         <p xml:lang="ar">مُحسّن</p>
         <p xml:lang="ca">Millorat</p>
         <p xml:lang="ca-valencia">Millorat</p>
+        <p xml:lang="cs">Vylepšeno</p>
         <p xml:lang="es">Mejoras</p>
         <p xml:lang="fr">Amélioré</p>
         <p xml:lang="it">Migliorati</p>
@@ -712,6 +741,7 @@
           <li xml:lang="ar">النقر مرة أخرى على نجمة واحدة يؤدي لإخفاء تقييم النجوم.</li>
           <li xml:lang="ca">En fer clic de nou a 1 estrella fa que la puntuació d'estrelles desaparegui.</li>
           <li xml:lang="ca-valencia">Quan es clique de nou a 1 estrela fa que la puntuació d'estreles desaparega.</li>
+          <li xml:lang="cs">Dalším kliknutím na 1 hvězdičku se hodnocení hvězdičkami skryje.</li>
           <li xml:lang="es">Volver a hacer clic en 1 estrella hace que desaparezca la valoración.</li>
           <li xml:lang="fr">La réalisation d'un nouveau clic sur une étoile fait disparaître la notation par étoiles.</li>
           <li xml:lang="it">Facendo clic nuovamente su 1 stella, la valutazione a stelle scompare.</li>
@@ -725,6 +755,7 @@
           <li xml:lang="ar">دعم '\|' لتخطي فواصل قائمة السلاسل النصية.</li>
           <li xml:lang="ca">Permet «\|» per a escapar els separadors d'una llista de cadenes.</li>
           <li xml:lang="ca-valencia">Permet «\|» per a escapar els separadors d'una llista de cadenes.</li>
+          <li xml:lang="cs">Podpora znaku „\|“ pro únik z oddělovačů v seznamu řetězců.</li>
           <li xml:lang="es">Permitir «\|» para escapar separadores de listas de cadenas.</li>
           <li xml:lang="fr">Prise en charge de « '\|' » comme caractères d'échappement pour les séparateurs de liste de chaînes.</li>
           <li xml:lang="it">Supporta '\|' per eseguire l'escape dei separatori degli elenchi di stringhe.</li>
@@ -739,7 +770,7 @@
         <p xml:lang="ar">أُصلح</p>
         <p xml:lang="ca">Corregit</p>
         <p xml:lang="ca-valencia">Corregit</p>
-        <p xml:lang="cs">Pevné</p>
+        <p xml:lang="cs">Opraveno</p>
         <p xml:lang="es">Correcciones</p>
         <p xml:lang="fr">Corrigé</p>
         <p xml:lang="it">Corretti</p>
@@ -754,6 +785,7 @@
           <li xml:lang="ar">دعم قيم متعددة في عناصر نص APE.</li>
           <li xml:lang="ca">Permet valors diversos en els elements de text APE.</li>
           <li xml:lang="ca-valencia">Permet valors diversos en els elements de text APE.</li>
+          <li xml:lang="cs">Podpora více hodnot v textových polích APE.</li>
           <li xml:lang="es">Permitir múltiples valores en los elementos de texto de APE.</li>
           <li xml:lang="fr">Prise en charge de plusieurs valeurs dans les éléments de texte « APE ».</li>
           <li xml:lang="it">Supporta più valori negli elementi di testo APE.</li>
@@ -767,6 +799,7 @@
           <li xml:lang="ar">البناء باستخدام TagLib 2.0.</li>
           <li xml:lang="ca">Construcció amb la TagLib 2.0.</li>
           <li xml:lang="ca-valencia">Construcció amb la TagLib 2.0.</li>
+          <li xml:lang="cs">Sestavení pomocí TagLib 2.0.</li>
           <li xml:lang="es">Compilación con TagLib 2.0.</li>
           <li xml:lang="fr">Compilation avec TagLib 2.0.</li>
           <li xml:lang="it">Compilazione con TagLib 2.0.</li>
@@ -780,6 +813,7 @@
           <li xml:lang="ar">البناء من ماك أو إس بمعمارية arm64.</li>
           <li xml:lang="ca">Construcció a partir de macOS amb arm64.</li>
           <li xml:lang="ca-valencia">Construcció a partir de macOS amb arm64.</li>
+          <li xml:lang="cs">Kompilace z macOS s architekturou arm64.</li>
           <li xml:lang="es">Compilación arm64 en macOS.</li>
           <li xml:lang="fr">Compilation à partir de macOS pour processeur « arm64 ».</li>
           <li xml:lang="it">Compilazione da macOS con arm64.</li>
@@ -793,6 +827,7 @@
           <li xml:lang="ar">بناء حزم سناب (Snap).</li>
           <li xml:lang="ca">Construcció de paquets Snap.</li>
           <li xml:lang="ca-valencia">Construcció de paquets Snap.</li>
+          <li xml:lang="cs">Vytváření balíčků Snap.</li>
           <li xml:lang="es">Creación de paquetes Snap.</li>
           <li xml:lang="fr">Construction des paquets « snap ».</li>
           <li xml:lang="it">Compilazione dei pacchetti snap.</li>
@@ -811,7 +846,7 @@
         <p xml:lang="ar">جديد</p>
         <p xml:lang="ca">Nou</p>
         <p xml:lang="ca-valencia">Nou</p>
-        <p xml:lang="cs">Nový</p>
+        <p xml:lang="cs">Nové</p>
         <p xml:lang="es">Novedades</p>
         <p xml:lang="fr">Nouveau</p>
         <p xml:lang="it">Nuovi</p>
@@ -826,6 +861,7 @@
           <li xml:lang="ar">بُنيت جميع الملفات التنفيذية الرسمية باستخدام Qt 6. بالنسبة لماك أو إس، أصبح ملف Darwin-amd64.dmg الآن هو نسخة Qt 6، بينما تحتاج الأنظمة الأقدم من Mojave إلى حزمة Darwin-Qt5.dmg. لا تتوافق إعدادات استبدال السلاسل النصية المخزنة بواسطة Qt 6 مع Qt 5 بسبب استخدام ترميز مختلف.</li>
           <li xml:lang="ca">Tots els binaris oficials estan construïts amb les Qt 6. Per al macOS, el fitxer Darwin-amd64.dmg és ara la versió de les Qt 6, mentre que els sistemes més antics que Mojave necessiten el paquet Darwin-Qt5.dmg. La configuració de reemplaçament de cadena emmagatzemada per les Qt 6 no és compatible amb les Qt 5 perquè s'utilitza una codificació diferent.</li>
           <li xml:lang="ca-valencia">Tots els binaris oficials estan construïts amb les Qt 6. Per a macOS, el fitxer Darwin-amd64.dmg és ara la versió de les Qt 6, mentre que els sistemes més antics que Mojave necessiten el paquet Darwin-Qt5.dmg. La configuració de reemplaçament de cadena emmagatzemada per les Qt 6 no és compatible amb les Qt 5 perquè s'utilitza una codificació diferent.</li>
+          <li xml:lang="cs">Všechny oficiální binární soubory jsou sestaveny s použitím Qt 6. Pro macOS je soubor Darwin-amd64.dmg nyní ve verzi Qt 6, zatímco systémy starší než Mojave vyžadují balíček Darwin-Qt5.dmg. Nastavení nahrazování řetězců uložených v Qt 6 nejsou kompatibilní s Qt 5, protože se používá odlišné kódování.</li>
           <li xml:lang="es">Todos los binarios oficiales están compilados con Qt 6. En macOS, el archivo Darwin-amd64.dmg contiene ahora la versión de Qt 6, por lo que los sistemas anteriores a Mojave necesitan el paquete Darwin-Qt5.dmg. Las preferencias de sustitución de cadenas guardadas por Qt 6 no son compatibles con Qt 5 porque usan una codificación diferente.</li>
           <li xml:lang="fr">Tous les binaires officiels sont construits avec Qt 6. Pour macOS, le fichier « Darwin-amd64.dmg » est désormais la version Qt 6, tandis que les systèmes plus anciens que Mojave nécessitent le paquet « Darwin-Qt5.dmg ». Les paramètres de remplacement de chaînes enregistrés par Qt 6 sont incompatibles avec Qt 5 car un encodage différent est utilisé.</li>
           <li xml:lang="it">Tutti i binari ufficiali sono compilati con Qt 6. Per macOS, il file Darwin-amd64.dmg è ora la versione Qt 6, mentre i sistemi precedenti a Mojave necessitano del pacchetto Darwin-Qt5.dmg. Le impostazioni di sostituzione delle stringhe memorizzate da Qt 6 non sono compatibili con Qt 5 perché viene utilizzata una codifica diversa.</li>
@@ -839,6 +875,7 @@
           <li xml:lang="ar">خيار "اختر الملف عند التشغيل" في تبويب إعدادات "إجراءات المستخدم".</li>
           <li xml:lang="ca">Opció «Selecciona el fitxer en reproducció» a la pestanya de configuració «Accions d'usuari».</li>
           <li xml:lang="ca-valencia">Opció «Tria el fitxer en reproducció» a la pestanya de configuració «Accions d'usuari».</li>
+          <li xml:lang="cs">Možnost "Vybrat soubor při přehrávání" na záložce nastavení "Uživatelské akce".</li>
           <li xml:lang="es">Opción «Seleccionar archivo al reproducir» en la pestaña de preferencias «Acciones del usuario».</li>
           <li xml:lang="fr">Option « Sélectionner un fichier lors de la lecture » dans l'onglet de configuration « Actions utilisateur ».</li>
           <li xml:lang="it">Opzione «Seleziona file durante la riproduzione» nella scheda delle impostazioni «Azioni utente».</li>
@@ -853,6 +890,7 @@
         <p xml:lang="ar">مُحسّن</p>
         <p xml:lang="ca">Millorat</p>
         <p xml:lang="ca-valencia">Millorat</p>
+        <p xml:lang="cs">Vylepšeno</p>
         <p xml:lang="es">Mejoras</p>
         <p xml:lang="fr">Amélioré</p>
         <p xml:lang="it">Migliorati</p>
@@ -867,6 +905,7 @@
           <li xml:lang="ar">النقر على وقت شريط أدوات التشغيل يبدل بين الوقت المنقضي والمتبقي.</li>
           <li xml:lang="ca">Un clic a l'hora de la barra d'eines de reproducció commuta el temps transcorregut i el temps restant.</li>
           <li xml:lang="ca-valencia">Un clic damunt de l'hora de la barra d'eines de reproducció canvia el temps transcorregut i el temps restant.</li>
+          <li xml:lang="cs">Kliknutím na tlačítko přehrávání na panelu nástrojů přepnete mezi uplynulým a zbývajícím časem.</li>
           <li xml:lang="es">Hacer clic en el tiempo de la barra de la herramienta de reproducción conmuta entre el tiempo transcurrido y el restante.</li>
           <li xml:lang="fr">Un clic sur la barre d'outils de lecture permet le basculement entre le temps écoulé et le temps restant.</li>
           <li xml:lang="it">Facendo clic sulla barra degli strumenti di riproduzione si alterna tra tempo trascorso e tempo rimanente.</li>
@@ -880,6 +919,7 @@
           <li xml:lang="ar">استُعيدت حالة الرؤية ومنطقة الإرساء لشريط أدوات التشغيل.</li>
           <li xml:lang="ca">Es restaura la visibilitat i l'àrea acoblada de la barra d'eines de reproducció.</li>
           <li xml:lang="ca-valencia">Es restaura la visibilitat i l'àrea acoblada de la barra d'eines de reproducció.</li>
+          <li xml:lang="cs">Viditelnost a zakotvená oblast panelu přehrávání jsou obnoveny.</li>
           <li xml:lang="es">Se han restaurado la visibilidad y el área de paneles de la barra de herramientas de reproducción.</li>
           <li xml:lang="fr">La visibilité et la zone ancrée de la barre d’outils de lecture sont restaurées.</li>
           <li xml:lang="it">La visibilità e l'area ancorata della barra degli strumenti di gioco vengono ripristinate.</li>
@@ -893,6 +933,7 @@
           <li xml:lang="ar">ID3v1: عند ضبط أنواع متعددة، يُستخدم أول عنصر مدعوم.</li>
           <li xml:lang="ca">ID3v1: en establir diversos gèneres, utilitza el primer element admès.</li>
           <li xml:lang="ca-valencia">ID3v1: en establir diversos gèneres, utilitza el primer element admés.</li>
+          <li xml:lang="cs">ID3v1: Při zadávání více žánrů použit první podporovaný prvek.</li>
           <li xml:lang="es">ID3v1: Cuando se definen múltiples géneros, usar el primer elemento admitido.</li>
           <li xml:lang="fr">ID3v1 : lors de la définition de plusieurs genres, veuillez utiliser le premier élément pris en charge.</li>
           <li xml:lang="it">ID3v1: quando si impostano più generi, utilizza il primo elemento supportato.</li>
@@ -906,6 +947,7 @@
           <li xml:lang="ar">Qt6: استخدام أيقونات SVG لأداء أفضل في قائمة الملفات ومربع الحوار.</li>
           <li xml:lang="ca">Qt6: usa les icones SVG per a un rendiment millor a la llista de fitxers i al diàleg.</li>
           <li xml:lang="ca-valencia">Qt6: utilitza les icones SVG per a un rendiment millor a la llista de fitxers i al diàleg.</li>
+          <li xml:lang="cs">Qt6: Použití ikon SVG pro lepší výkon v seznamu souborů a v dialogových oknech.</li>
           <li xml:lang="es">Qt6: Usar iconos SVG para un mejor rendimiento de la lista de archivos y de los diálogos.</li>
           <li xml:lang="fr">Qt6 : utilisation d'icônes « SVG » pour de meilleures performances dans la liste de fichiers et les boîtes de dialogue.</li>
           <li xml:lang="it">Qt6: utilizza le icone SVG per prestazioni migliori nell'elenco dei file e nella finestra di dialogo.</li>
@@ -920,7 +962,7 @@
         <p xml:lang="ar">أُصلح</p>
         <p xml:lang="ca">Corregit</p>
         <p xml:lang="ca-valencia">Corregit</p>
-        <p xml:lang="cs">Pevné</p>
+        <p xml:lang="cs">Opraveno</p>
         <p xml:lang="es">Correcciones</p>
         <p xml:lang="fr">Corrigé</p>
         <p xml:lang="it">Corretti</p>
@@ -935,6 +977,7 @@
           <li xml:lang="ar">عدم تعليم جميع الأطر غير الموحدة كمعدلة عند تغيير أي إطار غير موحد.</li>
           <li xml:lang="ca">No marca tots els marcs no unificats com a modificats si es canvia qualsevol marc no unificat.</li>
           <li xml:lang="ca-valencia">No marca tots els marcs no unificats com a modificats si es canvia qualsevol marc no unificat.</li>
+          <li xml:lang="cs">Pokud dojde ke změně jakéhokoli nesjednoceného rámce, neoznačují se všechny nesjednocené rámce jako změněné.</li>
           <li xml:lang="es">No marcar todas las estructuras sin unificar como modificadas si se modifica alguna de ellas.</li>
           <li xml:lang="fr">Ne pas marquer pas toutes les trames non unifiées comme modifiées si l'une est modifiée.</li>
           <li xml:lang="it">Non contrassegna tutti i frame non unificati come modificati se uno qualsiasi di essi viene modificato.</li>
@@ -948,6 +991,7 @@
           <li xml:lang="ar">انهيار في Id3libMetadata عند النقر على تحرير في إطار غير مدعوم.</li>
           <li xml:lang="ca">Falla a Id3libMetadata en fer clic a Edita en un marc no admès.</li>
           <li xml:lang="ca-valencia">Falla a Id3libMetadata quan es clique damunt «Edita» en un marc no admés.</li>
+          <li xml:lang="cs">Selhání Id3libMetadata při kliknutí na tlačítko Upravit u nepodporovaného rámce.</li>
           <li xml:lang="es">Fallo de la aplicación en Id3libMetadata cuando se pulsa «Editar» en una estructura no reconocida.</li>
           <li xml:lang="fr">Plantage dans Id3libMetadata lors d'un clic sur « Modifier » pour une trame non prise en charge.</li>
           <li xml:lang="it">Arresto anomalo di Id3libMetadata quando si fa clic su Modifica su un frame non supportato.</li>
@@ -961,6 +1005,7 @@
           <li xml:lang="ar">ضبط ترميز النص في أطر TXXX باستخدام TaglibMetadata.</li>
           <li xml:lang="ca">Configuració de la codificació de text en marcs TXXX amb TaglibMetadata.</li>
           <li xml:lang="ca-valencia">Configureu la codificació de text en marcs TXXX amb TaglibMetadata.</li>
+          <li xml:lang="cs">Nastavení kódování textu v rámcích TXXX pomocí TaglibMetadata.</li>
           <li xml:lang="es">Definir la codificación del texto en las estructuras TXXX con TaglibMetadata.</li>
           <li xml:lang="fr">Définition de l'encodage du texte sur les trames « » TXXX avec TaglibMetadata.</li>
           <li xml:lang="it">Impostazione della codifica del testo sui frame TXXX con TaglibMetadata.</li>
@@ -974,6 +1019,7 @@
           <li xml:lang="ar">تخطي المحارف غير الحرفية عند استخدام تنسيق الحرف الأول الكبير.</li>
           <li xml:lang="ca">Omet caràcters no lletres per al format en majúscula de primera lletra.</li>
           <li xml:lang="ca-valencia">Omet caràcters no lletres per al format en majúscula de primera lletra.</li>
+          <li xml:lang="cs">Při formátování s velkým počátečním písmenem přeskočeny znaky, které nejsou písmeny.</li>
           <li xml:lang="es">Omitir caracteres que no sen letras en el formato de usar mayúsculas para el primer carácter.</li>
           <li xml:lang="fr">Ignorer les caractères non alphabétiques pour le format au début en majuscule.</li>
           <li xml:lang="it">Salta i caratteri non alfabetici per il formato della prima lettera in maiuscolo.</li>
@@ -987,6 +1033,7 @@
           <li xml:lang="ar">استيراد Discogs: إصلاح القيم في أطر الفنان، والمنسق، والمؤدي، واستخدام "genres" إذا كان حقل "styles" فارغًا، وجلب غلاف الألبوم الصحيح، ودعم أرقام مسارات الفينيل مثل A1.</li>
           <li xml:lang="ca">Importació de Discogs: corregeix els valors en els marcs Artista, Arranjaments i Intèrpret, utilitza «gèneres» si «estils» està buit, recupera l'art correcte de caràtula, admet números de les pistes de vinil com A1.</li>
           <li xml:lang="ca-valencia">Importació de Discogs: corregix els valors en els marcs Artista, Configuracions i Intèrpret, utilitza «gèneres» si «estils» està buit, recupera l'art correcte de caràtula, admet números de les pistes de vinil com A1.</li>
+          <li xml:lang="cs">Import z Discogs: Oprava hodnot v polích „Umělec“, „Aranžér“ a „Interpret“, použití „žánrů“, pokud je pole „styly“ prázdné, načtení správného obalu, podpora číslování skladeb na vinylu (např. A1).</li>
           <li xml:lang="es">Importación de Discogs: Se han corregido los valores de las estructuras Artist, Arranger y Performer; usar «géneros» si «estilos» está vacío; obtener las portadas correctas; compatibilidad con números de pistas de vinilo, como A1.</li>
           <li xml:lang="fr">Importation à partir de Discogs : correction des valeurs dans les champs « Artiste », « Arrangement » et « Interprète ». Veuillez utiliser « genres » si « styles » est vide, charger l'illustration correcte de couverture, prendre en charge les numéros de piste vinyle comme A1.</li>
           <li xml:lang="it">Importazione Discogs: corregge i valori nei riquadri Artista, Arrangiatore ed Esecutore, usa «generi» se «stili» è vuoto, recupera la copertina corretta, supporta i numeri di traccia in vinile come A1.</li>
@@ -1000,6 +1047,7 @@
           <li xml:lang="ar">Qt6: انهيار عند إضافة عنصر إلى جدول التكوين.</li>
           <li xml:lang="ca">Qt6: falla en afegir un element a la taula de configuració.</li>
           <li xml:lang="ca-valencia">Qt6: falla en afegir un element a la taula de configuració.</li>
+          <li xml:lang="cs">Qt6: Pád při přidávání položky do konfigurační tabulky.</li>
           <li xml:lang="es">Qt6: Fallo de la aplicación cuando se añade un elemento a la tabla de configuración.</li>
           <li xml:lang="fr">Qt6 : Plantage lors de l'ajout d'un élément au tableau de configuration.</li>
           <li xml:lang="it">Qt6: arresto anomalo durante l'aggiunta di un elemento alla tabella di configurazione.</li>
@@ -1013,6 +1061,7 @@
           <li xml:lang="ar">Qt6: منزلق مشغل وسائط أكبر، وعدم التكرار عند انتهاء تشغيل الأغنية الأخيرة.</li>
           <li xml:lang="ca">Qt6: control lliscant del reproductor multimèdia més gran, no repeteix quan s'hagi reproduït l'última cançó.</li>
           <li xml:lang="ca-valencia">Qt6: control lliscant del reproductor multimèdia més gran, no repetix quan s'haja reproduït l'última cançó.</li>
+          <li xml:lang="cs">Qt6: Větší posuvník přehrávače médií, neopakování po přehrání poslední skladby.</li>
           <li xml:lang="es">Qt6: Deslizador más grande en el reproductor multimedia; no repetir cuando se ha reproducido la última canción.</li>
           <li xml:lang="fr">Qt6 : curseur plus grand du lecteur multimédia. Ne pas répéter après la lecture de la dernière chanson.</li>
           <li xml:lang="it">Qt6: cursore del lettore multimediale più grande, non ripete quando l'ultimo brano è stato riprodotto.</li>
@@ -1026,6 +1075,7 @@
           <li xml:lang="ar">ويندوز، TaglibMetadata: دعم الملفات التي يتجاوز حجمها 2 جيجابايت.</li>
           <li xml:lang="ca">Windows, TaglibMetadata: permet fitxers més grans de 2 GB.</li>
           <li xml:lang="ca-valencia">Windows, TaglibMetadata: permet fitxers més grans de 2 GB.</li>
+          <li xml:lang="cs">Windows, TaglibMetadata: Podpora souborů větších než 2 GB.</li>
           <li xml:lang="es">Windows, TaglibMetadata: Permitir archivos de más de 2 GB.</li>
           <li xml:lang="fr">Windows, TaglibMetadata : prise en charge des fichiers de taille supérieure à 2 Go.</li>
           <li xml:lang="it">Windows, TaglibMetadata: supporta file più grandi di 2 GB.</li>
@@ -1039,6 +1089,7 @@
           <li xml:lang="ar">ويندوز، OggFlacMetadata: بناء بدون libssp-0.dll.</li>
           <li xml:lang="ca">Windows, OggFlacMetadata: construeix sense libssp-0.dll.</li>
           <li xml:lang="ca-valencia">Windows, OggFlacMetadata: construïx sense libssp-0.dll.</li>
+          <li xml:lang="cs">Windows, OggFlacMetadata: Sestavení bez souboru libssp-0.dll.</li>
           <li xml:lang="es">Windows, OggFlacMetadata: Compilar sin libssp-0.dll.</li>
           <li xml:lang="fr">Windows, OggFlacMetadata : compilation sans la bibliothèque « libssp-0.dll ».</li>
           <li xml:lang="it">Windows, OggFlacMetadata: compila senza libssp-0.dll.</li>
@@ -1052,6 +1103,7 @@
           <li xml:lang="ar">ويندوز، Mp4v2Metadata: إصلاح الحفظ بأسماء ملفات تحتوي محارف غير ASCII.</li>
           <li xml:lang="ca">Windows, Mp4v2Metadata: corregeix el desament amb noms de fitxer que contenen caràcters no ASCII.</li>
           <li xml:lang="ca-valencia">Windows, Mp4v2Metadata: corregix la guardada amb noms de fitxer que contenen caràcters no ASCII.</li>
+          <li xml:lang="cs">Windows, Mp4v2Metadata: Oprava ukládání souborů s názvy obsahujícími znaky mimo znakovou sadu ASCII.</li>
           <li xml:lang="es">Windows, Mp4v2Metadata: Permitir que se puedan guardar archivos cuyo nombre contenga caracteres que no sean ASCII.</li>
           <li xml:lang="fr">Windows, Mp4v2Metadata : correction de l'enregistrement pour les noms de fichiers contenant des caractères non ASCII.</li>
           <li xml:lang="it">Windows, Mp4v2Metadata: correzione del salvataggio con nomi di file contenenti caratteri non ASCII.</li>
